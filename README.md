@@ -28,3 +28,5 @@ Simulation means testing the filter using example input signals.
 In MATLAB, you can plot the filtered output and see how it changes.
 
 In Verilog, you create a testbench and simulate the design using a tool like ModelSim to view waveforms.
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/5910c58b-5a6d-47f2-9d2a-b23976e69274)

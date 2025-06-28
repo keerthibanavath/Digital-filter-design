@@ -6,6 +6,29 @@ DOMAIN : VLSI
 DURIATION: 8 WEEKS
 MENTOR: NEELA SANTOSH
 Design the Filter:
+Digital filter design is the process of creating a filter that works on digital signals (numbers stored in a computer or digital device) to remove unwanted parts (like noise) or keep desired parts (like specific frequencies) of the signal.
+
+🔍 Purpose:
+To improve a signal by:
+
+Removing noise
+
+Extracting useful information
+
+Changing the shape or behavior of the signal
+
+🔧 How It Works:
+A digital filter takes in a stream of numbers (a signal),
+
+It processes the signal using a mathematical formula,
+
+And it outputs a new, cleaner or modified signal.
+
+📚 Types of Digital Filters:
+FIR (Finite Impulse Response) – Easy to design and always stable.
+
+IIR (Infinite Impulse Response) – More efficient but can be unstable if not designed carefully.
+
 
 First, you decide what kind of filter you want (for example, low-pass to remove high frequencies).
 
